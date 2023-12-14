@@ -59,7 +59,7 @@ Empar ha afegit el mètode que desitja: "Bon Nadal i Feliç Any Nou.  Pau i Salu
 #### AlumneFila2 PC2:
 
 
-#### AlumneFila2 PC3:
+#### AlumneFila2 PC3:e ficat una felicitacio com aquesta "¡Feliz Navidad y próspero Año Nuevo! Que este nuevo año esté lleno de alegría y éxitos." dins del archiu java
 
 
 #### AlumneFila2 PC4:
