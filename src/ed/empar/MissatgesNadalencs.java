@@ -136,6 +136,15 @@ public class MissatgesNadalencs {
 	}
 
 	private static void AlumneFila2PC3() {
+		
+		// Tu nombre
+	        String miNombre = "Carles";
+
+	        // Mensaje navideño con un deseo para el Año Nuevo
+	        String mensajeNavidad = "¡Feliz Navidad y próspero Año Nuevo! Que este nuevo año esté lleno de alegría y éxitos.";
+
+	        // Imprimir el saludo navideño con el deseo para el Año Nuevo
+	        System.out.println("Hola, soy " + miNombre + ". " + mensajeNavidad);
 
 	}
 
